@@ -1,0 +1,78 @@
+motos-financiacion-cordoba.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Motos 0km en cuotas sin tarjeta | Córdoba</title>
+  <meta name="description" content="Comprá motos 0km y usadas en Córdoba con financiación. Te conectamos con concesionarios reales. Consultá disponibilidad hoy.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f5f5f5;
+    }
+    header {
+      background: #111;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 700px;
+      margin: auto;
+      background: white;
+    }
+    .btn {
+      display: block;
+      background: #25D366;
+      color: white;
+      padding: 15px;
+      text-align: center;
+      font-size: 18px;
+      border-radius: 6px;
+      text-decoration: none;
+      margin-top: 20px;
+    }
+    footer {
+      text-align: center;
+      font-size: 14px;
+      color: #777;
+      padding: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Motos 0km y usadas en Córdoba</h1>
+  <p>Financiación · Entrega rápida · Atención personalizada</p>
+</header>
+
+<section>
+  <p>
+    ¿Buscás comprar una <strong>moto en Córdoba</strong> y necesitás financiación?
+    Te conectamos con <strong>concesionarios de motos reales</strong> que ofrecen planes en cuotas y entrega inmediata.
+  </p>
+
+  <ul>
+    <li>Motos 0km y usadas</li>
+    <li>Financiación en cuotas</li>
+    <li>Planes accesibles</li>
+    <li>Asesoramiento sin cargo</li>
+  </ul>
+
+  <a class="btn" href="https://wa.me/5493547477137">
+    📲 Consultar disponibilidad
+  </a>
+</section>
+
+<footer>
+  Este sitio no vende motos directamente. Conectamos compradores con concesionarios asociados en Córdoba.
+</footer>
+
+</body>
+</html>
